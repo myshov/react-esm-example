@@ -1,10 +1,3 @@
-//import App from './components/App.mjs';
-
-//console.log(App)
-
-//ReactDOM.render(App, document.getElementById('mountPoint'));
-
-
 const {render} = ReactDOM;
 const {createStore} = Redux;
 const {Provider} = ReactRedux;
